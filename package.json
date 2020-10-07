@@ -1,6 +1,6 @@
 {
   "name": "sgfs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Objects to manage config files and dirs as JS",
   "main": "index.js",
   "scripts": {
